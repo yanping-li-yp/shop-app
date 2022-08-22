@@ -1,0 +1,70 @@
+.mb-10 {
+	margin-bottom: 10px;
+}
+
+.mb_50 {
+	margin-bottom: 50px;
+}
+
+
+.mt-10 {
+	margin-top: 10px;
+}
+
+.mt-20 {
+	margin-top: 20px;
+}
+
+.mt-30 {
+	margin-top: 30px;
+}
+
+.mt-50 {
+	margin-top: 50px;
+}
+
+
+.ml-5 {
+	margin-left: 5px;
+}
+
+.ml-10 {
+	margin-left: 10px;
+}
+
+.mr-8 {
+	margin-right: 8px;
+}
+
+.mr-10 {
+	margin-right: 10px;
+}
+
+.pd-10-20 {
+	padding: 10px 20px;
+}
+
+
+.gray-bg {
+	background-color: #f8f8f8;
+	width: 100%;
+	min-height: 100%;
+	position: absolute;
+	height: auto;
+}
+
+.fixed-top-item {
+	position: fixed;
+	width: 100%;
+	z-index: 333;
+}
+
+.goods_card_name{
+	font-size: 0.875rem;
+	width: 96%;
+	text-align: justify;
+	display: inline-block;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
